@@ -1,2 +1,5 @@
-/*txt
-/.DS_Store
+# Ignore text files
+*.txt
+
+# Ignore macOS specific file
+.DS_Store
